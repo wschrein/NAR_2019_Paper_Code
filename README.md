@@ -1,4 +1,4 @@
-# top_dog_filter
+# Top Dog Filter
 
 **This code is used to filter out Downstream of Genes (DoGs) found from aberrant transcription.** 
 
