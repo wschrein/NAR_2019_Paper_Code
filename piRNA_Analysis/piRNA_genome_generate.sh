@@ -10,7 +10,7 @@
 #PBS -o make_wormbase_pirna_genome_t
 #PBS -e make_wormbase_pirna_genome_t
 
-
+# this was the code used to g
 
 module load  star/2.5.2b
 
