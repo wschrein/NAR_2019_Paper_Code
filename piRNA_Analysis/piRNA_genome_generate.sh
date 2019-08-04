@@ -10,7 +10,10 @@
 #PBS -o make_wormbase_pirna_genome_t
 #PBS -e make_wormbase_pirna_genome_t
 
-# this was the code used to g
+# this was the code used to generate a piRNA_genome to align small-RNA-seq reads to 
+
+# the piRNAs are from WS235 version of the c. elegans genome from wormbase
+
 
 module load  star/2.5.2b
 
